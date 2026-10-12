@@ -538,7 +538,7 @@ Content-Type: application/json
     "currentKwh": 1350
   },
   "rates": {
-    "baseFee": 15000,
+  "baseFee": 15000,~
     "perKwh": 1444,
     "taxRate": 11
   }
